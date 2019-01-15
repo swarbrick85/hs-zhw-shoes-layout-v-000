@@ -136,6 +136,10 @@ iframe {
   padding-left: 20px;
 }
 
+.border-bottom {
+  margin-bottom: 20px;
+}
+
 .thumbs_up {
   background: white url(../images/thumbs_up.jpg) no-repeat top right;
 }
