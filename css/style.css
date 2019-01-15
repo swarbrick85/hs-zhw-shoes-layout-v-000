@@ -138,11 +138,12 @@ iframe {
 
 .border_bottom1 {
   margin-bottom: 20px;
+  padding-bottom: 5px;
 }
 
 .border_bottom2 {
   margin-bottom: 25px;
-  padding-bottom: 5px;
+
 }
 
 .thumbs_up {
