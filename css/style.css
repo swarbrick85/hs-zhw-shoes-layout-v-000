@@ -133,6 +133,7 @@ iframe {
 
 .border_left {
   border-left: 1px dotted #ccc;
+  padding-left: 20px;
 }
 
 .thumbs_up {
