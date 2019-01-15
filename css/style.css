@@ -15,6 +15,9 @@ img.verif_img {
   vertical-align: bottom;
 }
 
+/*MY STUFF*/
+
+
 /********** Global **********/
 
 body {
@@ -120,6 +123,7 @@ iframe {
   text-shadow: 0 2px 3px #000;
   margin: 0 0 10px;
 }
+
 
 .border_right {
   border-right: 1px dotted #ccc;
