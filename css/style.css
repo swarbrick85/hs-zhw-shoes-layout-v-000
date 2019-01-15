@@ -136,8 +136,12 @@ iframe {
   padding-left: 20px;
 }
 
-.border_bottom {
+.border_bottom1 {
   margin-bottom: 20px;
+}
+
+.border_bottom2 {
+  margin-bottom: 23px;
 }
 
 .thumbs_up {
